@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Projet Perso pour apprendre differentes technos",
+  "main": "server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node ./dist/server.js"
+  },
+  "author": "p.vaquant",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^8.5.2",
+    "express": "^4.16.2"
+  }
+}
