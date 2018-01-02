@@ -4,7 +4,7 @@
   "description": "Projet Perso pour apprendre differentes technos",
   "main": "server.js",
   "scripts": {
-    "build": "tsc",
+    "build": "rm -rf ./dist && tsc",
     "start": "node ./dist/server.js"
   },
   "author": "p.vaquant",

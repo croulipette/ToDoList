@@ -2,12 +2,15 @@
 projet perso pour expérimenter technos
 
 
-### A réaliser 
-
-- Front
-  - React
-  - Redux
-  - Saga
+### A tester 
+- TypeScript
+  - ~~Sourcemap~~
+  - ~~Transpilation~~ 
+  - Bundleing
+  - ~~Debug ts files~~
+  - Fichier de *.d.ts
+  - Interdire les any
+  - Linter 
 
 - Back
   - Express
@@ -18,4 +21,13 @@ projet perso pour expérimenter technos
 - infra
     - Dockerfile
     - kubernetes / Minikube
-    -
+    - Jenkins file
+- Front
+  - React
+  - Redux
+  - Saga
+
+### ToDoList / Reminder
+- How to ?
+  - Créer un fichier de définition d'une classe js pour la rendre compatible typescript
+  
