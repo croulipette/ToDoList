@@ -4,7 +4,7 @@
   "description": "Projet Perso pour apprendre differentes technos",
   "main": "server.js",
   "scripts": {
-    "build": "rm -rf ./dist && tsc",
+    "build": "rimraf ./dist && tsc",
     "start": "node ./dist/server.js"
   },
   "author": "p.vaquant",
@@ -12,7 +12,10 @@
   "dependencies": {
     "@types/express": "^4.11.0",
     "@types/node": "^8.5.2",
+    "@types/swagger-jsdoc": "0.0.2",
     "express": "^4.16.2",
+    "rimraf": "^2.6.2",
+    "swagger-jsdoc": "^1.9.7",
     "typescript": "^2.6.2"
   }
 }

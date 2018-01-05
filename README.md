@@ -6,22 +6,25 @@ projet perso pour expérimenter technos
 - TypeScript
   - ~~Sourcemap~~
   - ~~Transpilation~~ 
-  - Bundleing
+  - Bundleing onefile
   - ~~Debug ts files~~
   - Fichier de *.d.ts
   - Interdire les any
   - Linter 
 
 - Back
-  - Express
-  - Route 
+  - ~~Express~~ 
+  - ~~Route~~ 
   - Swagger
+    - NE pas builder le repertoire swagger mais le laisser accessible
+    - Yaml vs js
   - WebPack
   - Jest
 - infra
     - Dockerfile
     - kubernetes / Minikube
     - Jenkins file
+    - InMemory Db
 - Front
   - React
   - Redux
