@@ -16,7 +16,7 @@ projet perso pour expérimenter technos
   - ~~Express~~ 
   - ~~Route~~ 
   - Swagger
-    - NE pas builder le repertoire swagger mais le laisser accessible
+    - ~~NE pas builder le repertoire swagger mais le rendre public (accessible)~~
     - Yaml vs js
   - WebPack
   - Jest
